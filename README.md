@@ -9,3 +9,5 @@ npm start
 
 
 ![alt text](https://github.com/DreadPirateRobert/react-tut/blob/master/Screenshot%20from%202018-12-25%2016-52-49.png)
+
+Tutorial followed from (https://www.taniarascia.com/getting-started-with-react/)
